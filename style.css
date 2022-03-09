@@ -1,3 +1,15 @@
 * {
   box-sizing: border-box;
 }
+
+.index__title {
+  text-align: center;
+}
+
+/* .div__cont {
+
+} */
+
+.index_div {
+  background-color: aqua;
+}
